@@ -1,0 +1,54 @@
+body {
+    background-image: url("https://i.redd.it/u9c4fvy12qe51.png");
+    background-size: 100% 100%;
+}
+
+h1 {
+    text-align: center;
+}
+
+h1 {
+    text-decoration: overline;
+}
+
+h1,
+li {
+    text-shadow: 5px 5px 5px blue;
+}
+
+ul {
+    font-size: 20px;
+}
+
+p {
+    font-size: 20px;
+    text-shadow: 5px 5px 5px blue;
+}
+
+.MFC {
+    font-family: 'Goldman', cursive;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+    border-style: double;
+    border-color: red ;
+    
+}
+
+.SUB {
+    background-image: url("https://i.redd.it/pzom81rqz9261.png");
+}
+img
+{
+    box-shadow: 10px 100px 100px red;
+}
+a {
+  color: yellow;
+}
+.li {
+    margin: 0 0 3px 0;
+}
